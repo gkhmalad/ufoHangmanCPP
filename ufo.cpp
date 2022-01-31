@@ -9,7 +9,7 @@ int main()
 
     greet();
 
-    string codeword = "codecademy";
+    string codeword = "cauliflower";
     string answer = "__________";
     int misses = 0;
     vector<char> incorrect;
